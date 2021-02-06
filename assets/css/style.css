@@ -59,11 +59,11 @@ section {
 }
 /*hero style beings*/
 .hero-img {
-    background-image: url("../images/hero-bg.jpg");
+    background-image: url("../images/hero-bg2.jpg");
     height: 600px;
     background-size: cover;
     background-position: center;
-    position: relative;
+    position: relative; 
 }
 .hero-form {
     background-color: #fce138;
